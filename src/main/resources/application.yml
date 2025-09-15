@@ -1,0 +1,4 @@
+micronaut:
+  caches:
+    news:
+      charset: 'UTF-8'
